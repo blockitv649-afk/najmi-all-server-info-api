@@ -1,0 +1,1 @@
+# najmi-all-server-info-api
